@@ -4,10 +4,10 @@ team:
   - service_team
 blueprint: service
 properties:
-  workload_short: scim
+  workload_short: scims
   language: java
   deployment_zone: private
   net_version: net8.2
-  readme: file://./README.md
+  readme: file://README.md
 relations:
   calcserv: priya_calculation_service
