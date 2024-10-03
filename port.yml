@@ -9,3 +9,5 @@ properties:
   deployment_zone: private
   net_version: net8.2
   readme: file://./README.md
+relations:
+  calcserv: priya_calculation_service
