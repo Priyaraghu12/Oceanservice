@@ -1,0 +1,13 @@
+identifier: Oceanservice
+title: Oceanservice
+team: 
+  - service_team
+blueprint: service
+properties:
+  workload_short: scim
+  language: java
+  deployment_zone: private
+  net_version: net8.3
+  readme: file://./README.md
+  relations:
+  calcserv: priya_calculation_service
