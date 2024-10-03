@@ -4,7 +4,7 @@ team:
   - service_team
 blueprint: service
 properties:
-  workload_short: scim
+  workload_short: sci
   language: java
   deployment_zone: private
   net_version: net8.2
